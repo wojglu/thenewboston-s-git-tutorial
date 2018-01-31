@@ -1,1 +1,2 @@
-This is a sweet website about dawgs
+This is a sweet website about dawgs.
+
